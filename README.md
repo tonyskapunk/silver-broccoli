@@ -1,7 +1,13 @@
-* Silver Broccoli
+# Silver Broccoli
 
 Is a repo to encourage you to eat veggies and learn git
 
-** Contribution
+## Contribution
 
 Submit PRs or report Issues via https://github.com/tonyskapunk/silver-broccoli/issues
+
+## Contributors
+
+* Luis Corvalan
+* Tony Garcia
+
